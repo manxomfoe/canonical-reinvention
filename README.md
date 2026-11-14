@@ -1,4 +1,4 @@
-###Hello! I’m Brian—a Design Operations Technologist and UX Leader with a background crossing design, software engineering, and operational strategy. 
+## Hello! I’m Brian—a Design Operations Technologist and UX Leader with a background crossing design, software engineering, and operational strategy. 
 
 Primarily, I create the operating environments, tools, and workflows that enable creative and engineering teams to do their best work at scale. Most recently at Docusign, I specialized in turning organizational complexity into seamless operating infrastructure—building enterprise tooling ecosystems, automating workflows, and establishing safe guardrails for AI-native design.
 

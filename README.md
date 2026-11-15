@@ -8,7 +8,11 @@ Beyond building systems for product development teams, you’ll find me performi
 
 Learn more about my work, [send me an email](mailto:brian.duchek+github@gmail.com), or find me on [LinkedIn](https://www.linkedin.com/in/brianduchek).
 
----
+<details>
+<summary>Footnotes</summary>
 
 [^1]: [Fermi Community Orchestra](https://www.fermicommunityorchestra.org/)
 [^2]: You can join us - [Be A Scout](https://beascout.scouting.org/units/8e9170f4-228b-47b3-9325-b909e054a63f)
+
+</details>
+

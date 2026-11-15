@@ -6,13 +6,9 @@ This is my third act, honestly.  While my first act was in music, my second  beg
 
 Beyond building systems for product development teams, you’ll find me performing in a local orchestra[^1], adventuring in the great outdoors[^2], and tinkering with new entrepreneurial ventures.
 
-Learn more about my work, [send me an email](mailto:brian.duchek+github@gmail.com), or find me on [LinkedIn](https://www.linkedin.com/in/brianduchek).
+Learn more about my work, [send me an email](mailto:brian.duchek+github@gmail.com), or find me on [LinkedIn]:https://www.linkedin.com/in/brianduchek.
 
-<details>
-<summary>Footnotes</summary>
+
 
 [^1]: [Fermi Community Orchestra](https://www.fermicommunityorchestra.org/)
 [^2]: You can join us - [Be A Scout](https://beascout.scouting.org/units/8e9170f4-228b-47b3-9325-b909e054a63f)
-
-</details>
-

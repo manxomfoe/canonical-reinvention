@@ -4,6 +4,11 @@ Primarily, I create the operating environments, tools, and workflows that enable
 
 This is my third act, honestly.  While my first act was in music, my second  began as a “producer” for the emerging web, growing into a full-blown front-end engineering career before pivoting into product design and management. 
 
-Beyond building systems for product development teams, you’ll find me performing in a local orchestra, adventuring in the great outdoors, and tinkering with new entrepreneurial ventures.
+Beyond building systems for product development teams, you’ll find me performing in a local orchestra[^1], adventuring in the great outdoors[^2], and tinkering with new entrepreneurial ventures.
 
-Learn more about my work here, send me an email, or find me on LinkedIn.
+Learn more about my work, [send me an email](mailto:brian.duchek+github@gmail.com), or find me on [LinkedIn](https://www.linkedin.com/in/brianduchek).
+
+---
+
+[^1]: [Fermi Community Orchestra](https://www.fermicommunityorchestra.org/)
+[^2]: You can join us - [Be A Scout](https://beascout.scouting.org/units/8e9170f4-228b-47b3-9325-b909e054a63f)

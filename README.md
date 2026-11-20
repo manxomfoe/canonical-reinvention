@@ -8,7 +8,7 @@ Beyond building systems for product development teams, you’ll find me performi
 
 Learning more [about] my work is best done by viewing my [resume] today.  Reach out anytime via [email](mailto:brian.duchek+github@gmail.com), or by finding me on [LinkedIn](https://www.linkedin.com/in/brianduchek).
 
-[about]: (/about/) 'About me page'
-[resume]: (/resume/) 'Resume in PDF format'
+[about]: /about/ "About me page"
+[resume]: /resume/ "Resume in PDF format"
 [^1]: [Fermi Community Orchestra](https://www.fermicommunityorchestra.org/)
 [^2]: You can join us - [Be A Scout](https://beascout.scouting.org/units/8e9170f4-228b-47b3-9325-b909e054a63f)

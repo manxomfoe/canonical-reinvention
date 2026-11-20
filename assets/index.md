@@ -1,1 +1,1 @@
-
+- [Resume - Brian Duchek, Design Operatiojns Technologist.pdf](/assets/Resume%20-%20Brian%20Duchek%2C%20Design%20Operations%20Technologist.pdf)

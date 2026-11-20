@@ -12,7 +12,7 @@ defaults:
       permalink: /about/
 
   - scope:
-      path: "Resume.md"
+      path: "Resume.html"
       type: "pages"
     values:
       layout: default

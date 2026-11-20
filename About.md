@@ -1,9 +1,3 @@
----
-layout: default
-title: "About"
-permalink: /about/
----
-
 Here you can learn even __more__ about me…
 
 Things like:

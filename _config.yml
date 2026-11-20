@@ -1,3 +1,12 @@
 theme: jekyll-theme-minimal
 title: Portfolio of Brian Duchek
 description: Place to work on how to use github to host a simple portfolio
+
+defaults:
+  - scope:
+      path: "About.md"
+      type: "pages"
+    values:
+      layout: default
+      title: About
+      permalink: /about/

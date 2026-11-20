@@ -10,11 +10,3 @@ defaults:
       layout: default
       title: About
       permalink: /about/
-
-  - scope:
-      path: "Resume.html"
-      type: "pages"
-    values:
-      layout: default
-      title: Resume
-      permalink: /resume/
